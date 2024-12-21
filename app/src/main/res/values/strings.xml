@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task_043_2</string>
+    <string name="exit">Exit</string>
+    <string name="toMainActivity">To main activity</string>
+    <string name="toSearchActivity">To search activity</string>
+</resources>
